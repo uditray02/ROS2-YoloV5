@@ -1,3 +1,6 @@
+
+RUN- python3 ros_recognition_yolo.py by sourcing it into any workspace/inside any created folder with all the files.
+
 <div align="center">
 <p>
 <a align="left" href="https://ultralytics.com/yolov5" target="_blank">
