@@ -263,6 +263,10 @@ For issues running YOLOv5 please visit [GitHub Issues](https://github.com/ultral
         <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-facebook.png" width="3%"/>
     </a>
     <img width="3%" />
+
+
+
+  run - python3 ros_recognition_yolo.py by sourcing it into any workspace/inside any created folder with all the files.
     <a href="https://www.instagram.com/ultralytics/">
         <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-instagram.png" width="3%"/>
     </a>
